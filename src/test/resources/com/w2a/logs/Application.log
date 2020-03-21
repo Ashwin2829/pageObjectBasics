@@ -1,22 +1,25 @@
-17/03/2020 15:01:13 devpinoyLogger https://www.zoho.com/loaded
-17/03/2020 15:01:24 devpinoyLogger sheet name = loginTest
-17/03/2020 15:01:24 devpinoyLogger no. of rows = 2
-17/03/2020 15:01:24 devpinoyLogger no. of columns = 3
-17/03/2020 15:01:24 devpinoyLogger rownumber 2
-17/03/2020 15:01:24 devpinoyLogger column number 0
-17/03/2020 15:01:24 devpinoyLogger {username=ashwin.karkera28@gmail.com}
-17/03/2020 15:01:24 devpinoyLogger column number 1
-17/03/2020 15:01:24 devpinoyLogger {password=sujatha@123, username=ashwin.karkera28@gmail.com}
-17/03/2020 15:01:24 devpinoyLogger column number 2
-17/03/2020 15:01:24 devpinoyLogger {password=sujatha@123, runmode=Y, username=ashwin.karkera28@gmail.com}
-17/03/2020 15:01:28 devpinoyLogger Clicking on locator loginLink_CSS
-17/03/2020 15:01:30 devpinoyLogger Entering on locator emailId_CSS with value ashwin.karkera28@gmail.com
-17/03/2020 15:01:32 devpinoyLogger Clicking on locator nextButton_CSS
-17/03/2020 15:01:33 devpinoyLogger Entering on locator password_CSS with value sujatha@123
-17/03/2020 15:01:33 devpinoyLogger Clicking on locator signInButton_XPATH
-17/03/2020 15:01:40 devpinoyLogger sheet name = createAccountTest
-17/03/2020 15:01:40 devpinoyLogger no. of rows = 2
-17/03/2020 15:01:40 devpinoyLogger no. of columns = 1
-17/03/2020 15:01:40 devpinoyLogger rownumber 2
-17/03/2020 15:01:40 devpinoyLogger column number 0
-17/03/2020 15:01:40 devpinoyLogger {accountName=Raman}
+21/03/2020 12:29:32 devpinoyLogger https://www.zoho.com/loaded
+21/03/2020 12:29:48 devpinoyLogger sheet name = loginTest
+21/03/2020 12:29:48 devpinoyLogger no. of rows = 2
+21/03/2020 12:29:48 devpinoyLogger no. of columns = 3
+21/03/2020 12:29:48 devpinoyLogger rownumber 2
+21/03/2020 12:29:48 devpinoyLogger column number 0
+21/03/2020 12:29:48 devpinoyLogger {username=ashwin.karkera28@gmail.com}
+21/03/2020 12:29:48 devpinoyLogger column number 1
+21/03/2020 12:29:48 devpinoyLogger {password=sujatha@123, username=ashwin.karkera28@gmail.com}
+21/03/2020 12:29:48 devpinoyLogger column number 2
+21/03/2020 12:29:48 devpinoyLogger {password=sujatha@123, runmode=Y, username=ashwin.karkera28@gmail.com}
+21/03/2020 12:29:52 devpinoyLogger Clicking on locator loginLink_CSS
+21/03/2020 12:29:53 devpinoyLogger Entering on locator emailId_CSS with value ashwin.karkera28@gmail.com
+21/03/2020 12:29:55 devpinoyLogger Clicking on locator nextButton_CSS
+21/03/2020 12:29:55 devpinoyLogger Entering on locator password_CSS with value sujatha@123
+21/03/2020 12:29:59 devpinoyLogger Clicking on locator signInButton_XPATH
+21/03/2020 12:30:04 devpinoyLogger sheet name = createAccountTest
+21/03/2020 12:30:04 devpinoyLogger no. of rows = 2
+21/03/2020 12:30:04 devpinoyLogger no. of columns = 1
+21/03/2020 12:30:04 devpinoyLogger rownumber 2
+21/03/2020 12:30:04 devpinoyLogger column number 0
+21/03/2020 12:30:04 devpinoyLogger {accountName=Raman}
+21/03/2020 12:30:33 devpinoyLogger Clicking on locator CRMLink_CSS
+21/03/2020 12:30:43 devpinoyLogger Clicking on locator accountLink_CSS
+21/03/2020 12:30:46 devpinoyLogger Entering on locator accountName_CSS with value Raman

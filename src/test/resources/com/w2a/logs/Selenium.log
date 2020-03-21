@@ -1,32 +1,35 @@
-15:01:13,802 DEBUG devpinoyLogger:115 - https://www.zoho.com/loaded
-15:01:24,049 DEBUG devpinoyLogger:33 - sheet name = loginTest
-15:01:24,288 DEBUG devpinoyLogger:35 - no. of rows = 2
-15:01:24,289 DEBUG devpinoyLogger:37 - no. of columns = 3
-15:01:24,289 DEBUG devpinoyLogger:41 - rownumber 2
-15:01:24,290 DEBUG devpinoyLogger:44 - column number 0
-15:01:24,376 DEBUG devpinoyLogger:47 - {username=ashwin.karkera28@gmail.com}
-15:01:24,377 DEBUG devpinoyLogger:44 - column number 1
-15:01:24,378 DEBUG devpinoyLogger:47 - {password=sujatha@123, username=ashwin.karkera28@gmail.com}
-15:01:24,379 DEBUG devpinoyLogger:44 - column number 2
-15:01:24,379 DEBUG devpinoyLogger:47 - {password=sujatha@123, runmode=Y, username=ashwin.karkera28@gmail.com}
-15:01:28,428 DEBUG devpinoyLogger:142 - Clicking on locator loginLink_CSS
-15:01:30,236 DEBUG devpinoyLogger:156 - Entering on locator emailId_CSS with value ashwin.karkera28@gmail.com
-15:01:32,727 DEBUG devpinoyLogger:142 - Clicking on locator nextButton_CSS
-15:01:33,056 DEBUG devpinoyLogger:156 - Entering on locator password_CSS with value sujatha@123
-15:01:33,891 DEBUG devpinoyLogger:142 - Clicking on locator signInButton_XPATH
-15:01:36,625 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
-15:01:36,626 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
-15:01:36,629 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-15:01:36,631 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-15:01:36,632 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Ashwin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
-15:01:40,098 DEBUG devpinoyLogger:33 - sheet name = createAccountTest
-15:01:40,098 DEBUG devpinoyLogger:35 - no. of rows = 2
-15:01:40,099 DEBUG devpinoyLogger:37 - no. of columns = 1
-15:01:40,099 DEBUG devpinoyLogger:41 - rownumber 2
-15:01:40,099 DEBUG devpinoyLogger:44 - column number 0
-15:01:40,100 DEBUG devpinoyLogger:47 - {accountName=Raman}
-15:01:51,210 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
-15:01:51,211 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
-15:01:51,212 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-15:01:51,212 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-15:01:51,212 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Ashwin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12:29:32,090 DEBUG devpinoyLogger:115 - https://www.zoho.com/loaded
+12:29:48,235 DEBUG devpinoyLogger:33 - sheet name = loginTest
+12:29:48,316 DEBUG devpinoyLogger:35 - no. of rows = 2
+12:29:48,317 DEBUG devpinoyLogger:37 - no. of columns = 3
+12:29:48,317 DEBUG devpinoyLogger:41 - rownumber 2
+12:29:48,317 DEBUG devpinoyLogger:44 - column number 0
+12:29:48,603 DEBUG devpinoyLogger:47 - {username=ashwin.karkera28@gmail.com}
+12:29:48,604 DEBUG devpinoyLogger:44 - column number 1
+12:29:48,604 DEBUG devpinoyLogger:47 - {password=sujatha@123, username=ashwin.karkera28@gmail.com}
+12:29:48,604 DEBUG devpinoyLogger:44 - column number 2
+12:29:48,605 DEBUG devpinoyLogger:47 - {password=sujatha@123, runmode=Y, username=ashwin.karkera28@gmail.com}
+12:29:52,907 DEBUG devpinoyLogger:142 - Clicking on locator loginLink_CSS
+12:29:53,768 DEBUG devpinoyLogger:156 - Entering on locator emailId_CSS with value ashwin.karkera28@gmail.com
+12:29:55,138 DEBUG devpinoyLogger:142 - Clicking on locator nextButton_CSS
+12:29:55,524 DEBUG devpinoyLogger:156 - Entering on locator password_CSS with value sujatha@123
+12:29:59,385 DEBUG devpinoyLogger:142 - Clicking on locator signInButton_XPATH
+12:29:59,991 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+12:29:59,993 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+12:29:59,996 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12:29:59,999 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12:30:00,000 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Ashwin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12:30:04,545 DEBUG devpinoyLogger:33 - sheet name = createAccountTest
+12:30:04,546 DEBUG devpinoyLogger:35 - no. of rows = 2
+12:30:04,547 DEBUG devpinoyLogger:37 - no. of columns = 1
+12:30:04,548 DEBUG devpinoyLogger:41 - rownumber 2
+12:30:04,548 DEBUG devpinoyLogger:44 - column number 0
+12:30:04,552 DEBUG devpinoyLogger:47 - {accountName=Raman}
+12:30:33,184 DEBUG devpinoyLogger:142 - Clicking on locator CRMLink_CSS
+12:30:43,510 DEBUG devpinoyLogger:142 - Clicking on locator accountLink_CSS
+12:30:46,048 DEBUG devpinoyLogger:156 - Entering on locator accountName_CSS with value Raman
+12:30:46,051 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+12:30:46,052 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+12:30:46,052 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12:30:46,054 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12:30:46,054 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Ashwin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

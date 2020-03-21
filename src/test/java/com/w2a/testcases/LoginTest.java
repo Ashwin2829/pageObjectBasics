@@ -12,12 +12,12 @@ import com.w2a.utilities.Utilities;
 
 public class LoginTest extends BaseTest {
 	@Test(dataProviderClass=Utilities.class, dataProvider="dp")
-	public void loginTest(Hashtable<String,String> data) {
+	public void loginTest(Hashtable<String,String> data) throws InterruptedException {
 		HomePage hp = new HomePage();
 		LoginPage lp = hp.goToLogin();
 
 		ZohoAppPage zp = lp.doLogin(data.get("username"), data.get("password"));
-		Assert.fail("Login test failed");
+		//Assert.fail("Login test failed");
 
 	}
 
