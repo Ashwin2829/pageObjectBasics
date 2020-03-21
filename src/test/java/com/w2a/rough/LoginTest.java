@@ -18,7 +18,7 @@ public class LoginTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		//This is a rough package
 		
         HomePage hp = new HomePage();
         LoginPage lp = hp.goToLogin();
