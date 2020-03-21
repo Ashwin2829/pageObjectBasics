@@ -19,7 +19,7 @@ public class LoginTest {
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
 		
-		// using E-git plugin
+		// using E-git 
         HomePage hp = new HomePage();
         LoginPage lp = hp.goToLogin();
        
