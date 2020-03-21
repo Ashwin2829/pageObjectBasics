@@ -16,7 +16,7 @@ import com.w2a.pages.crm.accounts.CreateAccountPage;
 
 public class LoginTest {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
 		
 		
